@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.windows",
+  "versions": [
+    {
+      "commit": "26c631178124b716ba25740efe55beb23f717030",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:19:18.753029+00:00"
+    }
+  ]
+}
